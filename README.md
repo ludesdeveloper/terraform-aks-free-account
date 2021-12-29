@@ -1,6 +1,6 @@
 # CREATE AKS CLUSTER FROM FREE ACCOUNT [AZURE](https://azure.microsoft.com/en-us/free/) 
 
-This repo is a companion repo to the [Provision an AKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-aks-cluster), containing Terraform configuration files to provision an AKS cluster on Azure.
+This repo is based on [Provision an AKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-aks-cluster), containing Terraform configuration files to provision an AKS cluster on Azure.
 ### **Requirements**
 1. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 2. [Azure CLI logged in](https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli)
